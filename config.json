@@ -1,0 +1,10 @@
+{
+    "token":"tokenBot",
+    "guildId": "idServer",
+    "clientId": "clientIDBot",
+    "host" : "hostBDD",
+    "port" : "3306/portBDD",
+    "user" : "userBDD",
+    "password" : "MDPuserBDD",
+    "database" : "nameBDD"
+}
